@@ -11,3 +11,16 @@ GAS_REPORT=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+## to mint more nft : 
+- node scripts/mint-nft.js 
+
+-------------------------------------------------
+-------------------------------------------------
+## future works : 
+- unique nfts (by uploading more and more photos in pinata )
+- a front-end too. 
+
+
+-------------------------------------------------
+-------------------------------------------------
+![](https://github.com/Haripandey21/Blockchain_Days-/blob/main/all%20images/nft.jpg)
